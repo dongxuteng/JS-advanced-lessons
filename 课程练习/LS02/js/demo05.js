@@ -1,5 +1,5 @@
 /**
- * Created by qile on 2017/8/14.
+ * Practiced by dongxuteng on 2017/3/13.
  */
 
 (function () {//立即执行表达式开始

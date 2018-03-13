@@ -1,5 +1,5 @@
 /**
- * Created by qile on 2017/8/14.
+ * Practiced by dongxuteng on 2017/3/13.
  */
 
  var a1=10;
@@ -9,4 +9,7 @@ console.log(parseFloat("23.456xy"));//同上，结果为23.456
 //注意：parseInt和parseFloat都为全局方法，即window全局对象的方法
 console.log(parseInt === window.parseInt);
 console.log(parseFloat === window.parseFloat);
+
+
+
 
